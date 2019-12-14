@@ -3,7 +3,6 @@ backend:
   repo: saxani/netifly-cms-test
 
 media_folder: static/assets
-public_folder: assets
 
 collections:
   - name: blog
